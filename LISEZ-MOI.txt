@@ -1,0 +1,11 @@
+MY LITTLE CUP — site vitrine (6 pages)
+
+1. Double-cliquez sur « recuperer-photos.command » : il télécharge les vraies photos dans images/.
+   (Si macOS bloque : clic droit > Ouvrir. Ou dans le Terminal : bash recuperer-photos.command)
+   Sans ça, le site va chercher les photos directement sur internet.
+2. Ouvrez index.html dans votre navigateur.
+3. Formulaire de contact : dans contact.html, remplacez VOTRE_CLE_WEB3FORMS par la clé Web3Forms du client.
+4. Mise en ligne : glissez le dossier entier sur app.netlify.com/drop (le dossier _build n'est pas nécessaire).
+
+À valider avec le client : prix de la carte (indicatifs), numéro de téléphone, photos définitives.
+Les anecdotes des cerises et les arômes sont dans assets/data.js (modifiables).
